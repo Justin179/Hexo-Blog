@@ -2,6 +2,7 @@
 title: "about"
 type: "about"
 layout: "about"
+comments: false 
 ---
 
 ## 我是貓熊🐼

@@ -1,5 +1,14 @@
 ---
 title: Hello World
+tags:
+- 標籤1
+- 標籤2
+category:
+- [主分類1,分類2]
+- [主分類1,分類3]
+- [主分類2,分類1]
+- [主分類2,分類4]
+
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

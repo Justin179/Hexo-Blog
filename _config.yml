@@ -4,9 +4,9 @@
 
 # Site
 title: 學習筆記
-subtitle: ''
-description: ''
-keywords:
+subtitle: 'this is subtitle'
+description: 'this is description'
+keywords: Java
 author: Justin Chen
 language: zh-TW
 timezone: 'Asia/Taipei'
