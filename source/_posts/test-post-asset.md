@@ -1,13 +1,16 @@
 ---
-title: test post asset
+title: 圖片測試
 date: 2024-05-19 00:10:34
 tags:
 ---
 ### 本地圖
 ![](/images/image.jpg)
 
-### 網路圖 
-![](https://megapx-assets.dcard.tw/images/68443d1c-ab65-42b9-a00e-a2b95c46fcd0/640.webp)
-
 ### 網路圖 (指定大小 200 300)
 {% img https://megapx-assets.dcard.tw/images/68443d1c-ab65-42b9-a00e-a2b95c46fcd0/640.webp 200 300 %}
+
+### 網路圖 (cloudinary)
+![4a86c](https://res.cloudinary.com/dhh0xolkd/image/upload/v1716112078/samples/4a86c_xiynjn.jpg)
+
+### 網路圖 (自動上傳 github zoom 67%)
+<img src="https://raw.githubusercontent.com/Justin179/Typora/main/data/q6CVnZ2YlKOesA.jpg" alt="q6CVnZ2YlKOesA" style="zoom:67%;" />

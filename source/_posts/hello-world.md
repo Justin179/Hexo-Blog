@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hexo Quick Start
 tags:
 - 標籤1
 - 標籤2
@@ -10,7 +10,7 @@ category:
 - [主分類2,分類4]
 
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. 
 
 ## Quick Start
 
@@ -59,18 +59,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit 
 {% endblockquote %}
 
 ### 程式碼區塊 (Code Block)
-``` Java
-alert('Hello World!');
-System.out.println("Hello World");
+
+```java
+public int pathSum(TreeNode root, int targetSum) {
+    hmap = new HashMap<>();
+    count = 0;
+    dfs(root, 0, targetSum);
+    return count;
+}
 ```
-
-{% codeblock lang:Java %}
-alert('Hello World!');
-System.out.println("Hello World");
-{% endcodeblock %}
-
-{% code lang:Java %}
-alert('Hello World!');
-System.out.println("Hello World");
-{% endcode %}
 
