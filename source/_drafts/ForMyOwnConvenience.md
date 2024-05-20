@@ -1,16 +1,16 @@
 ---
-title: Hexo Quick Start
+title: For my own convenience
+date: 2024-05-20
 tags:
 - 標籤1
 - 標籤2
 category:
 - [主分類1,分類2]
-- [主分類1,分類3]
-- [主分類2,分類1]
-- [主分類2,分類4]
-
+hide: false
+top: false
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. 
+
+
 
 ## Quick Start
 
@@ -18,6 +18,16 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ``` bash
 $ hexo new "My New Post"
+```
+
+More info: [Writing](https://hexo.io/docs/writing.html)
+
+<!-- more -->
+
+### Create a new draft
+
+``` bash
+$ hexo new draft "My New Draft"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
@@ -69,3 +79,4 @@ public int pathSum(TreeNode root, int targetSum) {
 }
 ```
 
+單行程式碼`System.out.println("")`
