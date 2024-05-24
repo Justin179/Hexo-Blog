@@ -14,6 +14,14 @@ top: false
 
 ## Quick Start
 
+### Local Deployment
+
+1. Modify files locally.
+2. Localization testing: ```hexo clean && hexo s.```
+3. Deployment: ```hexo g -d.```
+
+<!-- more -->
+
 ### Create a new post
 
 ``` bash
@@ -21,8 +29,6 @@ $ hexo new "My New Post"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
-
-<!-- more -->
 
 ### Create a new draft
 
@@ -56,11 +62,6 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-### Local Deployment
-
-1. Modify files locally.
-2. Localization testing: ```hexo clean && hexo s.```
-3. Deployment: ```hexo g -d.```
 
 ### 引用區塊 (Block Quote)
 
