@@ -72,6 +72,10 @@ git push -u origin main
 
 
 
+補充:
+
+VS Code 讓Git版控變得直覺，細節的指令已經不重要 
+
 
 
 

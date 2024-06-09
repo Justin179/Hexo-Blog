@@ -144,7 +144,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/coffee.gif
+  url: /images/migi.jpg
   # If true, the avatar will be displayed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
@@ -368,8 +368,8 @@ codeblock:
   # Code Highlight theme
   # All available themes: https://theme-next.js.org/highlight/
   theme:
-    light: default
-    dark: stackoverflow-dark
+    light: atom-one-dark-reasonable #default
+    dark: atom-one-dark-reasonable #stackoverflow-dark
   prism:
     light: prism
     dark: prism-dark
